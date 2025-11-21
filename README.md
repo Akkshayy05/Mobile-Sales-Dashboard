@@ -1,2 +1,64 @@
-# Mobile-Sales-Dashboard
-“This repository contains a Power BI Sales Dashboard built using mobile sales data from multiple brands and models. The report includes visualizations, The purpose of this dashboard is to understand sales performance trends and customer purchase behavior.”
+## Mobile Sales Dashboard – Power BI 
+
+This project contains an interactive Power BI dashboard that analyzes the sales performance of mobile phones across different brands, models, cities, and payment methods.
+The dashboard is designed to provide clear business insights and help understand customer behavior, top-performing models, and brand contributions.
+
+## The dashboard includes key sales KPIs :
+
+- Total Sales (769M)
+- Total Units Sold (19K)
+- Transactions (4K)
+- Average Order Value (40K)
+- Monthly Sales Trend
+- Sales by City (Interactive Map)
+- Top 5 Selling Mobile Models
+- Payment Mode Distribution (UPI / Cash / Debit Card / Credit Card)
+- Customer Ratings
+- Brand-wise Contribution (Apple, Samsung, OnePlus, Vivo, Xiaomi)
+
+
+## Files in This Repository
+**File/**   
+
+- Mobile_Sales_Dashboard.pbix ( Full Power BI report )      
+- projectbi.PNG               ( Dashboard preview image )
+- data.csv` / `data.xlsx`      ( Raw dataset )
+- README.md                 (Project documentation )
+
+
+## Skills Demonstrated
+
+- **Data Modeling/**
+
+- **DAX Calculations/**
+
+- **Power BI Dashboard Design/**
+
+- **Data Cleaning (Power Query)/**
+
+- **Business Intelligence Reporting/**
+
+- **KPI Creation/**
+
+- **Map Visualization/**
+
+- **Drill-down & Filters/**
+
+ ## How to Use This Project
+
+1. Clone or download the repository
+
+2. Open the .pbix file in Power BI Desktop
+
+3. Refresh the dataset
+
+4. Explore the visuals, filters, maps, and trends
+
+
+
+
+
+
+
+
+
