@@ -28,21 +28,21 @@ The dashboard is designed to provide clear business insights and help understand
 
 ## Skills Demonstrated
 
-- **Data Modeling/**
+- **Data Modeling**
 
-- **DAX Calculations/**
+- **DAX Calculations**
 
-- **Power BI Dashboard Design/**
+- **Power BI Dashboard Design**
 
-- **Data Cleaning (Power Query)/**
+- **Data Cleaning (Power Query)**
 
-- **Business Intelligence Reporting/**
+- **Business Intelligence Reporting**
 
-- **KPI Creation/**
+- **KPI Creation**
 
-- **Map Visualization/**
+- **Map Visualization**
 
-- **Drill-down & Filters/**
+- **Drill-down & Filters**
 
  ## How to Use This Project
 
